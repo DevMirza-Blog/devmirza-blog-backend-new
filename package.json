@@ -12,6 +12,8 @@
   "devDependencies": {},
   "dependencies": {
     "@_sh/strapi-plugin-ckeditor": "^1.1.2",
+    "@exfabrica/strapi-plugin-awesome-help": "^1.0.8",
+    "@palmabit/strapi-app-version": "^1.0.1",
     "@strapi/plugin-i18n": "4.4.3",
     "@strapi/plugin-seo": "^1.7.5",
     "@strapi/plugin-users-permissions": "4.4.3",

@@ -1151,6 +1151,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.12.tgz#475b33a2631a3d8ca8aa95ee127f9a61d95bf9c1"
   integrity sha512-tZEowDjvU7O7I04GYvWQOS4yyP9E/7YlsB0jjw1Ycukgr2ycEzKyIk5tms5WnLBymaewc6VmRKnn5IJWgK4eFw==
 
+"@exfabrica/strapi-plugin-awesome-help@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@exfabrica/strapi-plugin-awesome-help/-/strapi-plugin-awesome-help-1.0.8.tgz#41734c31125270e9aae4d285a5c043b1b5c94657"
+  integrity sha512-wfT1vieSEbfFUxJQG+JWUaXzc7LxG23ASdhGwO2soxyu56Fdv9E/kZYw4wl6A3WdmLsAQ8ICZrNI7AmSxc04eg==
+
 "@fingerprintjs/fingerprintjs@3.3.3":
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/@fingerprintjs/fingerprintjs/-/fingerprintjs-3.3.3.tgz#ead445032c92a79d5f585953019402ed223edc7d"
@@ -1388,6 +1393,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@palmabit/strapi-app-version@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@palmabit/strapi-app-version/-/strapi-app-version-1.0.1.tgz#c8955173259e9d36d18ef8a93350674c1b95c1fa"
+  integrity sha512-LaoIrzdyQZUpqPfM8Ut6IZLAg6NOpdOCMS48egSNiKjiIh09E1lswj20z2bM1erB9t7LmvSwRP13e2Gy5BJJyA==
 
 "@pmmmwh/react-refresh-webpack-plugin@0.5.7":
   version "0.5.7"
