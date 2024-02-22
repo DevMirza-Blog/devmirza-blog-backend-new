@@ -15,7 +15,7 @@
     "@palmabit/strapi-app-version": "^1.0.1",
     "@strapi/plugin-i18n": "^4.5.3",
     "@strapi/plugin-seo": "^1.7.7",
-    "@strapi/plugin-users-permissions": "^4.12.4",
+    "@strapi/plugin-users-permissions": "^4.20.2",
     "@strapi/provider-email-mailgun": "^4.5.3",
     "@strapi/provider-upload-cloudinary": "^4.5.3",
     "@strapi/strapi": "^4.12.5",
